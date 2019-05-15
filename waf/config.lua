@@ -38,7 +38,7 @@ config_output_html=[[
 <title>网站防火墙</title>
 </head>
 <body>
-<h1 align="center"> 欢迎进行授权安全测试，安全漏洞。
+<h1 align="center"> 您的行为已违反本网站相关规定，注意操作规范哦！！！
 </body>
 </html>
 ]]
