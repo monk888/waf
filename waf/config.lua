@@ -29,7 +29,7 @@ config_post_check = "on"
 --config waf output redirect/html
 config_waf_output = "html"
 --if config_waf_output ,setting url
-config_waf_redirect_url = "https://www.unixhot.com"
+config_waf_redirect_url = "https://www.baidu.com"
 config_output_html=[[
 <html>
 <head>
@@ -38,7 +38,7 @@ config_output_html=[[
 <title>网站防火墙</title>
 </head>
 <body>
-<h1 align="center"> 欢迎白帽子进行授权安全测试，安全漏洞请联系QQ：1111111。
+<h1 align="center"> 欢迎进行授权安全测试，安全漏洞。
 </body>
 </html>
 ]]
